@@ -1,0 +1,439 @@
+Unnamed: 0,pathway_name,complex_ID,pathway_ID,top_level_pathway_ID,top_level_pathway_name,species,predicted_top_level_pathway_name,similarity_score
+1,A tetrasaccharide linker sequence is required for GAG synthesis,,,,,,Metabolism,0.6120556
+2,Abacavir ADME,,,,,,Drug ADME,0.6448637
+3,ABC transporter disorders,,,,,,Transport of small molecules,0.7273774
+6,Aberrant regulation of mitotic cell cycle due to RB1 defects,,,,,,Disease,0.8796437
+8,Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,,,,,,Disease,0.9188415
+10,Acetylcholine binding and downstream events,,,,,,Neuronal System,0.72942823
+20,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,,,,,,Cell Cycle,0.9274207
+23,Activation of BH3-only proteins,,,,,,Immune System,0.57533365
+26,Activation of GABAB receptors,,,,,,Neuronal System,0.8472306
+28,Activation of HOX genes during differentiation,,,,,,Developmental Biology,0.6979657
+29,Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon,,,,,,Immune System,0.7705087
+30,Activation of kainate receptors upon glutamate binding,,,,,,Neuronal System,0.82115936
+33,Activation of NMDA receptors and postsynaptic events,,,,,,Neuronal System,0.73291147
+48,Adaptive Immune System,,,,,,Immune System,0.79430056
+62,AKT phosphorylates targets in the cytosol,,,,,,Signal Transduction,0.6524143
+66,alpha-linolenic (omega3) and linoleic (omega6) acid metabolism,,,,,,Metabolism,0.8165423
+73,Amplification of signal from the kinetochores,,,,,,Cell Cycle,0.6594518
+78,Anti-inflammatory response favouring Leishmania parasite infection,,,,,,Disease,0.546125
+82,Antigen processing-Cross presentation,,,,,,Immune System,0.7067421
+86,Antiviral mechanism by IFN-stimulated genes,,,,,,Disease,0.58558095
+89,APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,,,,,,Cell Cycle,0.82388943
+90,APC/C-mediated degradation of cell cycle proteins,,,,,,Cell Cycle,0.8348246
+95,Apoptosis,,,,,,Programmed Cell Death,0.85626364
+101,Aquaporin-mediated transport,,,,,,Transport of small molecules,0.87598836
+102,Arachidonic acid metabolism,,,,,,Metabolism,0.6072831
+127,Axon guidance,,,,,,Signal Transduction,0.55631864
+130,Base Excision Repair,,,,,,DNA Repair,0.55114055
+131,"Base-Excision Repair, AP Site Formation",,,,,,DNA Repair,0.778765
+135,Beta-catenin independent WNT signaling,,,,,,Signal Transduction,0.62536824
+138,Bicarbonate transporters,,,,,,Metabolism,0.5219301
+139,Bile acid and bile salt metabolism,,,,,,Metabolism,0.8013758
+140,Binding and Uptake of Ligands by Scavenger Receptors,,,,,,Vesicle-mediated transport,0.67839
+141,Biological oxidations,,,,,,Cellular responses to stimuli,0.60920924
+143,Biosynthesis of specialized proresolving mediators (SPMs),,,,,,Immune System,0.56663966
+146,Blood group systems biosynthesis,,,,,,Metabolism,0.6553547
+147,"BMAL1:CLOCK,NPAS2 activates circadian gene expression",,,,,,Gene expression (Transcription),0.50880814
+153,C-type lectin receptors (CLRs),,,,,,Signal Transduction,0.60523903
+154,Ca-dependent events,,,,,,Signal Transduction,0.6705363
+162,Cap-dependent Translation Initiation,,,,,,Metabolism of proteins,0.8144547
+164,Cardiac conduction,,,,,,Transport of small molecules,0.5557891
+169,Carnitine metabolism,,,,,,Metabolism,0.6900425
+173,Caspase activation via extrinsic apoptotic signalling pathway,,,,,,Programmed Cell Death,0.667966
+176,CD28 co-stimulation,,,,,,Immune System,0.6286998
+185,Cell Cycle Checkpoints,,,,,,Cell Cycle,0.7406054
+186,"Cell Cycle, Mitotic",,,,,,Cell Cycle,0.7997744
+187,"Cell death signalling via NRAGE, NRIF and NADE",,,,,,Signal Transduction,0.7678671
+188,Cell junction organization,,,,,,Cell-Cell communication,0.72984445
+189,Cell recruitment (pro-inflammatory response),,,,,,Extracellular matrix organization,0.49828398
+192,Cell-cell junction organization,,,,,,Cell-Cell communication,0.7445846
+195,Cellular response to chemical stress,,,,,,Cellular responses to stimuli,0.70159054
+196,Cellular response to heat stress,,,,,,Cellular responses to stimuli,0.69466615
+198,Cellular response to starvation,,,,,,Cellular responses to stimuli,0.58973944
+200,Cellular responses to stress,,,,,,Cellular responses to stimuli,0.7592224
+201,Cellular Senescence,,,,,,Cellular responses to stimuli,0.8064332
+202,Centrosome maturation,,,,,,Cell Cycle,0.8093281
+205,Chaperonin-mediated protein folding,,,,,,Metabolism of proteins,0.7335974
+209,Chondroitin sulfate biosynthesis,,,,,,Metabolism,0.6363672
+210,Chondroitin sulfate/dermatan sulfate metabolism,,,,,,Metabolism,0.5887206
+213,Chromosome Maintenance,,,,,,Chromatin organization,0.5857272
+216,Cilium Assembly,,,,,,Organelle biogenesis and maintenance,0.67297673
+217,Circadian Clock,,,,,,Sensory Perception,0.4265327
+222,Class I MHC mediated antigen processing & presentation,,,,,,Immune System,0.8859933
+229,"Cobalamin (Cbl, vitamin B12) transport and metabolism",,,,,,Metabolism,0.76802284
+234,Collagen formation,,,,,,Extracellular matrix organization,0.81488675
+236,Complement cascade,,,,,,Immune System,0.92567116
+250,Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding,,,,,,Metabolism of proteins,0.79490536
+257,Costimulation by the CD28 family,,,,,,Immune System,0.6020491
+259,Creation of C4 and C2 activators,,,,,,Signal Transduction,0.54943496
+260,CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,,,,,,Neuronal System,0.82778394
+268,CTLA4 inhibitory signaling,,,,,,Signal Transduction,0.6550869
+277,CYP2E1 reactions,,,,,,Signal Transduction,0.64005524
+278,Cytochrome c-mediated apoptotic response,,,,,,Programmed Cell Death,0.78834045
+280,Cytokine Signaling in Immune system,,,,,,Immune System,0.6815462
+297,Deadenylation-dependent mRNA decay,,,,,,Metabolism of RNA,0.8588097
+298,Death Receptor Signalling,,,,,,Programmed Cell Death,0.82960737
+301,Defective B3GALT6 causes EDSP2 and SEMDJL1,,,,,,Disease,0.5872074
+302,Defective B3GALTL causes PpS,,,,,,Disease,0.69451904
+304,"Defective B4GALT7 causes EDS, progeroid type",,,,,,Disease,0.47769997
+310,Defective GALNT12 causes CRCS1,,,,,,Disease,0.70545727
+311,Defective GALNT3 causes HFTC,,,,,,Disease,0.58142567
+312,Defective HDR through Homologous Recombination (HRR) due to BRCA1 loss-of-function,,,,,,Disease,0.9026721
+313,Defective HDR through Homologous Recombination (HRR) due to PALB2 loss of function,,,,,,Disease,0.9240102
+316,Defective homologous recombination repair (HRR) due to BRCA2 loss of function,,,,,,Disease,0.91850185
+317,Defective Intrinsic Pathway for Apoptosis,,,,,,Programmed Cell Death,0.66109776
+320,Defects in cobalamin (B12) metabolism,,,,,,Metabolism,0.6570221
+321,Defects in vitamin and cofactor metabolism,,,,,,Transport of small molecules,0.5846255
+322,Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),,,,,,Cell Cycle,0.49852556
+331,Depolymerisation of the Nuclear Lamina,,,,,,Cell Cycle,0.63055915
+333,Depurination,,,,,,Cellular responses to stimuli,0.5334097
+334,Depyrimidination,,,,,,Metabolism,0.542847
+336,Dermatan sulfate biosynthesis,,,,,,Metabolism,0.7211058
+338,Deubiquitination,,,,,,Cell Cycle,0.6767527
+346,Diseases associated with glycosaminoglycan metabolism,,,,,,Metabolism of proteins,0.5351912
+347,Diseases associated with glycosylation precursor biosynthesis,,,,,,Immune System,0.5549315
+348,Diseases associated with N-glycosylation of proteins,,,,,,Metabolism of proteins,0.6098982
+349,Diseases associated with O-glycosylation of proteins,,,,,,Metabolism of proteins,0.69978017
+350,Diseases associated with the TLR signaling cascade,,,,,,Immune System,0.6672119
+351,Diseases associated with visual transduction,,,,,,Signal Transduction,0.43731898
+352,Diseases of carbohydrate metabolism,,,,,,Digestion and absorption,0.7130262
+353,Diseases of DNA Double-Strand Break Repair,,,,,,DNA Repair,0.83219606
+354,Diseases of DNA repair,,,,,,DNA Repair,0.7670851
+355,Diseases of glycosylation,,,,,,Metabolism of proteins,0.57369685
+356,Diseases of hemostasis,,,,,,Hemostasis,0.8064816
+357,Diseases of Immune System,,,,,,Immune System,0.7212868
+358,Diseases of metabolism,,,,,,Metabolism of proteins,0.6126826
+359,Diseases of mitotic cell cycle,,,,,,Cell Cycle,0.6399959
+360,Diseases of programmed cell death,,,,,,Programmed Cell Death,0.86217415
+361,Diseases of signal transduction by growth factor receptors and second messengers,,,,,,Disease,0.63982856
+362,Diseases of the neuronal system,,,,,,Neuronal System,0.6290637
+363,Disorders of Developmental Biology,,,,,,Developmental Biology,0.7001377
+364,Disorders of Nervous System Development,,,,,,Developmental Biology,0.5320556
+365,Disorders of transmembrane transporters,,,,,,Vesicle-mediated transport,0.6029334
+367,DNA Damage Bypass,,,,,,DNA Repair,0.75349605
+370,DNA Double Strand Break Response,,,,,,DNA Repair,0.9062408
+371,DNA Double-Strand Break Repair,,,,,,DNA Repair,0.91512215
+375,DNA Replication Pre-Initiation,,,,,,DNA Replication,0.7950687
+376,DNA strand elongation,,,,,,DNA Replication,0.62774223
+384,Downstream signaling events of B Cell Receptor (BCR),,,,,,Immune System,0.8218017
+386,Downstream signaling of activated FGFR2,,,,,,Signal Transduction,0.9214337
+387,Downstream signaling of activated FGFR3,,,,,,Signal Transduction,0.903118
+388,Downstream signaling of activated FGFR4,,,,,,Signal Transduction,0.90432477
+394,E2F mediated regulation of DNA replication,,,,,,DNA Replication,0.70457095
+398,Early SARS-CoV-2 Infection Events,,,,,,Disease,0.67936766
+405,Eicosanoids,,,,,,Signal Transduction,0.78749156
+419,Epigenetic regulation of gene expression,,,,,,Cellular responses to stimuli,0.6426396
+422,ER to Golgi Anterograde Transport,,,,,,Metabolism of proteins,0.75531185
+441,Eukaryotic Translation Initiation,,,,,,Metabolism of proteins,0.86114633
+444,Export of Viral Ribonucleoproteins from Nucleus,,,,,,Disease,0.79869336
+446,Extension of Telomeres,,,,,,Cell Cycle,0.8998157
+451,Fatty acid metabolism,,,,,,Metabolism,0.6801744
+452,Fatty acids,,,,,,Metabolism,0.5913922
+460,Fcgamma receptor (FCGR) dependent phagocytosis,,,,,,Disease,0.8468733
+464,Fertilization,,,,,,Reproduction,0.49022278
+465,FGFR1 ligand binding and activation,,,,,,Signal Transduction,0.9687804
+466,FGFR1 mutant receptor activation,,,,,,Disease,0.88401026
+469,FGFR2 ligand binding and activation,,,,,,Signal Transduction,0.970761
+470,FGFR2 mutant receptor activation,,,,,,Disease,0.8938101
+473,FGFR3 ligand binding and activation,,,,,,Signal Transduction,0.9736469
+474,FGFR3 mutant receptor activation,,,,,,Disease,0.90426135
+479,FLT3 signaling in disease,,,,,,Immune System,0.88884526
+485,Formation of Fibrin Clot (Clotting Cascade),,,,,,Hemostasis,0.847357
+499,FOXO-mediated transcription,,,,,,Gene expression (Transcription),0.8379678
+503,Free fatty acids regulate insulin secretion,,,,,,Metabolism,0.7841277
+518,G protein gated Potassium channels,,,,,,Neuronal System,0.9406767
+520,G-protein beta:gamma signalling,,,,,,Signal Transduction,0.8086817
+521,G-protein mediated events,,,,,,Signal Transduction,0.8808768
+523,G1 Phase,,,,,,Cell Cycle,0.73116386
+524,G1/S DNA Damage Checkpoints,,,,,,Cell Cycle,0.8717889
+525,G1/S Transition,,,,,,Cell Cycle,0.7133359
+529,G2/M Transition,,,,,,Cell Cycle,0.70169824
+534,"Gamma carboxylation, hypusine formation and arylsulfatase activation",,,,,,Metabolism of proteins,0.6682753
+536,"Gamma-carboxylation, transport, and amino-terminal cleavage of proteins",,,,,,Metabolism of proteins,0.82794166
+539,Gap junction trafficking,,,,,,Vesicle-mediated transport,0.8715448
+540,Gap junction trafficking and regulation,,,,,,Vesicle-mediated transport,0.8162119
+544,Gastrulation,,,,,,Developmental Biology,0.8234063
+547,Gene Silencing by RNA,,,,,,Gene expression (Transcription),0.66359234
+552,Global Genome Nucleotide Excision Repair (GG-NER),,,,,,DNA Repair,0.7483087
+558,Glucose metabolism,,,,,,Metabolism,0.7598462
+561,"Glutamate binding, activation of AMPA receptors and synaptic plasticity",,,,,,Neuronal System,0.67181695
+567,Glycogen metabolism,,,,,,Metabolism,0.9507905
+568,Glycogen storage diseases,,,,,,Metabolism,0.7367816
+572,Glycosaminoglycan metabolism,,,,,,Metabolism of proteins,0.59821177
+573,Glycosphingolipid metabolism,,,,,,Metabolism,0.70677507
+577,Golgi-to-ER retrograde transport,,,,,,Vesicle-mediated transport,0.87156487
+579,GPCR downstream signalling,,,,,,Signal Transduction,0.69564676
+580,GPCR ligand binding,,,,,,Signal Transduction,0.62232316
+593,HCMV Infection,,,,,,Disease,0.7167005
+600,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),,,,,,DNA Repair,0.8931926
+610,Heparan sulfate/heparin (HS-GAG) metabolism,,,,,,Metabolism,0.6567259
+611,Hh mutants abrogate ligand secretion,,,,,,Disease,0.5349351
+615,HIV Infection,,,,,,Disease,0.7794459
+616,HIV Life Cycle,,,,,,Disease,0.78542495
+617,HIV Transcription Elongation,,,,,,Disease,0.8538002
+620,Homology Directed Repair,,,,,,DNA Repair,0.7051902
+622,Host Interactions of HIV factors,,,,,,Disease,0.64248234
+629,Hyaluronan uptake and degradation,,,,,,Metabolism,0.8430184
+631,IGF1R signaling cascade,,,,,,Signal Transduction,0.7921089
+641,"Incretin synthesis, secretion, and inactivation",,,,,,Metabolism of proteins,0.7219912
+642,Infection with Mycobacterium tuberculosis,,,,,,Disease,0.40441513
+643,Infectious disease,,,,,,Disease,0.62155735
+644,Inflammasomes,,,,,,Immune System,0.70995927
+646,Influenza Viral RNA Transcription and Replication,,,,,,Disease,0.66766524
+656,Innate Immune System,,,,,,Immune System,0.73137975
+657,Inositol phosphate metabolism,,,,,,Metabolism,0.63014233
+662,Integration of energy metabolism,,,,,,Metabolism,0.662414
+668,Interactions of Rev with host cellular proteins,,,,,,Disease,0.65635186
+669,Interactions of Vpr with host cellular proteins,,,,,,Disease,0.6033251
+674,Interferon Signaling,,,,,,Immune System,0.82695234
+676,Interleukin-1 family signaling,,,,,,Immune System,0.9076278
+680,Interleukin-12 family signaling,,,,,,Immune System,0.9512995
+694,Interleukin-6 family signaling,,,,,,Immune System,0.946473
+697,Intra-Golgi and retrograde Golgi-to-ER traffic,,,,,,Vesicle-mediated transport,0.8970393
+699,Intracellular signaling by second messengers,,,,,,Immune System,0.8784858
+701,Intrinsic Pathway for Apoptosis,,,,,,Programmed Cell Death,0.70016825
+703,Inwardly rectifying K+ channels,,,,,,Neuronal System,0.6707485
+707,Ionotropic activity of kainate receptors,,,,,,Neuronal System,0.8414425
+727,Keratan sulfate/keratin metabolism,,,,,,Metabolism,0.86594194
+729,Ketone body metabolism,,,,,,Metabolism,0.5241489
+730,Killing mechanisms,,,,,,Programmed Cell Death,0.5260679
+735,Lagging Strand Synthesis,,,,,,Cell Cycle,0.85815644
+738,Late Phase of HIV Life Cycle,,,,,,Disease,0.64830023
+739,Late SARS-CoV-2 Infection Events,,,,,,Disease,0.6244489
+741,Leading Strand Synthesis,,,,,,Cell Cycle,0.68944985
+742,Leishmania infection,,,,,,Disease,0.6812192
+743,Leishmania parasite growth and survival,,,,,,Disease,0.5763208
+744,Leishmania phagocytosis,,,,,,Immune System,0.6511221
+745,Lewis blood group biosynthesis,,,,,,Transport of small molecules,0.45451525
+747,Listeria monocytogenes entry into host cells,,,,,,Disease,0.8804696
+749,Loss of function of MECP2 in Rett syndrome,,,,,,Gene expression (Transcription),0.6047623
+755,M Phase,,,,,,Metabolism of RNA,0.53277344
+758,MAP kinase activation,,,,,,Signal Transduction,0.76189953
+761,MAPK family signaling cascades,,,,,,Signal Transduction,0.7292751
+762,MAPK targets/ Nuclear events mediated by MAP kinases,,,,,,Signal Transduction,0.7290015
+763,MAPK1/MAPK3 signaling,,,,,,Immune System,0.8240576
+772,Meiosis,,,,,,Reproduction,0.7605799
+778,Membrane Trafficking,,,,,,Organelle biogenesis and maintenance,0.70131207
+782,MET promotes cell motility,,,,,,Signal Transduction,0.571977
+784,Metabolic disorders of biological oxidation enzymes,,,,,,Metabolism of proteins,0.57079524
+786,Metabolism of amine-derived hormones,,,,,,Metabolism,0.6862483
+787,Metabolism of amino acids and derivatives,,,,,,Metabolism,0.7978234
+789,Metabolism of carbohydrates,,,,,,Digestion and absorption,0.7625967
+790,Metabolism of cofactors,,,,,,Metabolism of proteins,0.6090684
+791,Metabolism of fat-soluble vitamins,,,,,,Transport of small molecules,0.62400675
+793,Metabolism of lipids,,,,,,Metabolism,0.7296262
+794,Metabolism of nitric oxide: NOS3 activation and regulation,,,,,,Signal Transduction,0.6330637
+795,Metabolism of non-coding RNA,,,,,,Metabolism of RNA,0.7815028
+796,Metabolism of nucleotides,,,,,,Metabolism,0.9088242
+798,Metabolism of porphyrins,,,,,,Metabolism,0.6531248
+802,Metabolism of steroids,,,,,,Metabolism,0.9439193
+803,Metabolism of vitamins and cofactors,,,,,,Transport of small molecules,0.71155024
+804,Metabolism of water-soluble vitamins and cofactors,,,,,,Transport of small molecules,0.7059593
+812,Miscellaneous substrates,,,,,,Transport of small molecules,0.62978774
+814,Mismatch Repair,,,,,,DNA Repair,0.783794
+817,Mitochondrial biogenesis,,,,,,Protein localization,0.7445786
+820,mitochondrial fatty acid beta-oxidation of saturated fatty acids,,,,,,Metabolism,0.9237908
+823,Mitochondrial translation,,,,,,Metabolism of proteins,0.89065975
+828,Mitophagy,,,,,,Autophagy,0.8445361
+829,Mitotic Anaphase,,,,,,Cell Cycle,0.78073466
+830,Mitotic G1 phase and G1/S transition,,,,,,Cell Cycle,0.69735414
+831,Mitotic G2-G2/M phases,,,,,,Cell Cycle,0.7840657
+832,Mitotic Metaphase and Anaphase,,,,,,Cell Cycle,0.7758318
+835,Mitotic Spindle Checkpoint,,,,,,Cell Cycle,0.6961324
+836,Mitotic Telophase/Cytokinesis,,,,,,Cell Cycle,0.73090935
+842,mRNA Editing,,,,,,Metabolism of RNA,0.6811534
+843,mRNA Splicing,,,,,,Metabolism of RNA,0.90717804
+848,Mucopolysaccharidoses,,,,,,Metabolism of proteins,0.6308615
+859,N-glycan antennae elongation in the medial/trans-Golgi,,,,,,Metabolism of proteins,0.8603324
+862,Na+/Cl- dependent neurotransmitter transporters,,,,,,Neuronal System,0.6464567
+867,Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters,,,,,,Disease,0.6054934
+868,Negative epigenetic regulation of rRNA expression,,,,,,Gene expression (Transcription),0.76023805
+885,Nervous system development,,,,,,Neuronal System,0.6719092
+888,Neurodegenerative Diseases,,,,,,Disease,0.58464557
+890,Neurotoxicity of clostridium toxins,,,,,,Disease,0.51775646
+894,Neutrophil degranulation,,,,,,Hemostasis,0.7373966
+898,Nicotinamide salvaging,,,,,,Metabolism,0.61577
+908,Nonsense-Mediated Decay (NMD),,,,,,Metabolism of RNA,0.7193444
+919,NR1H2 and NR1H3-mediated signaling,,,,,,Signal Transduction,0.6686927
+925,Nuclear Envelope (NE) Reassembly,,,,,,Cell Cycle,0.8614781
+927,Nuclear Events (kinase and transcription factor activation),,,,,,Gene expression (Transcription),0.68869394
+934,Nucleosome assembly,,,,,,Disease,0.79662377
+935,Nucleotide biosynthesis,,,,,,Metabolism,0.8786434
+937,Nucleotide Excision Repair,,,,,,DNA Repair,0.76027507
+938,Nucleotide salvage,,,,,,Metabolism,0.79684824
+939,"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",,,,,,Gene expression (Transcription),0.6041968
+940,Nucleotide-like (purinergic) receptors,,,,,,Transport of small molecules,0.6571374
+941,O-glycosylation of TSR domain-containing proteins,,,,,,Metabolism of proteins,0.69358385
+942,O-linked glycosylation,,,,,,Metabolism of proteins,0.8437172
+944,O2/CO2 exchange in erythrocytes,,,,,,Transport of small molecules,0.6472751
+947,Oncogenic MAPK signaling,,,,,,Immune System,0.6750802
+953,Organic anion transporters,,,,,,Transport of small molecules,0.5675461
+954,Organic cation transport,,,,,,Transport of small molecules,0.5895071
+955,Organic cation/anion/zwitterion transport,,,,,,Transport of small molecules,0.5497415
+966,p53-Dependent G1/S DNA damage checkpoint,,,,,,Cell Cycle,0.9394125
+967,p53-Independent DNA Damage Response,,,,,,Cell Cycle,0.6327428
+968,p53-Independent G1/S DNA damage checkpoint,,,,,,Cell Cycle,0.7384609
+969,p75 NTR receptor-mediated signalling,,,,,,Signal Transduction,0.79298645
+971,p75NTR regulates axonogenesis,,,,,,Signal Transduction,0.7786982
+972,p75NTR signals via NF-kB,,,,,,Signal Transduction,0.7287519
+977,Parasite infection,,,,,,Disease,0.46806356
+983,PD-1 signaling,,,,,,Signal Transduction,0.70584804
+988,Peptide hormone metabolism,,,,,,Metabolism of proteins,0.8328993
+993,Pervasive developmental disorders,,,,,,Developmental Biology,0.45494017
+999,Phase II - Conjugation of compounds,,,,,,Metabolism,0.64231265
+1000,Phenylalanine and tyrosine metabolism,,,,,,Metabolism,0.6812768
+1005,Phospholipid metabolism,,,,,,Immune System,0.8287019
+1009,PI Metabolism,,,,,,Metabolism,0.5748434
+1017,PI3K/AKT Signaling in Cancer,,,,,,Disease,0.8054169
+1027,Plasma lipoprotein assembly,,,,,,Transport of small molecules,0.5734285
+1028,"Plasma lipoprotein assembly, remodeling, and clearance",,,,,,Transport of small molecules,0.5795217
+1029,Plasma lipoprotein clearance,,,,,,Transport of small molecules,0.5610905
+1030,Plasma lipoprotein remodeling,,,,,,Metabolism,0.588079
+1031,"Platelet activation, signaling and aggregation",,,,,,Hemostasis,0.73953575
+1034,Platelet calcium homeostasis,,,,,,Hemostasis,0.8139036
+1043,Positive epigenetic regulation of rRNA expression,,,,,,Gene expression (Transcription),0.6909489
+1044,Post NMDA receptor activation events,,,,,,Neuronal System,0.7489553
+1047,Post-translational protein modification,,,,,,Metabolism of proteins,0.76150525
+1050,Postsynaptic nicotinic acetylcholine receptors,,,,,,Neuronal System,0.88931966
+1051,Potassium Channels,,,,,,Neuronal System,0.906306
+1057,Pre-NOTCH Expression and Processing,,,,,,Signal Transduction,0.8586557
+1064,Presynaptic nicotinic acetylcholine receptors,,,,,,Neuronal System,0.84307307
+1066,Processing and activation of SUMO,,,,,,Metabolism of proteins,0.4937623
+1068,Processing of Capped Intronless Pre-mRNA,,,,,,Metabolism of RNA,0.91986394
+1077,Prolonged ERK activation events,,,,,,Disease,0.53970325
+1079,Protein folding,,,,,,Metabolism of proteins,0.6235519
+1081,Protein methylation,,,,,,Metabolism,0.87246144
+1082,Protein ubiquitination,,,,,,Metabolism of proteins,0.78718823
+1083,Protein-protein interactions at synapses,,,,,,Neuronal System,0.7394566
+1084,PTEN Regulation,,,,,,Signal Transduction,0.89357626
+1094,Pyruvate metabolism and Citric Acid (TCA) cycle,,,,,,Metabolism,0.8233983
+1098,Rab regulation of trafficking,,,,,,Developmental Biology,0.55204743
+1119,Reduction of cytosolic Ca++ levels,,,,,,Hemostasis,0.7309108
+1120,Regulated Necrosis,,,,,,Programmed Cell Death,0.7989683
+1128,Regulation of beta-cell development,,,,,,Developmental Biology,0.86116254
+1152,Regulation of mitotic cell cycle,,,,,,Cell Cycle,0.75033104
+1153,Regulation of mRNA stability by proteins that bind AU-rich elements,,,,,,Metabolism of proteins,0.5796848
+1170,Regulation of TP53 Activity,,,,,,Gene expression (Transcription),0.92563266
+1176,Regulation of TP53 Expression and Degradation,,,,,,Gene expression (Transcription),0.96580005
+1185,Resolution of D-Loop Structures,,,,,,DNA Repair,0.7691143
+1191,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",,,,,,Metabolism,0.7048996
+1194,Response of Mtb to phagocytosis,,,,,,Autophagy,0.6267903
+1196,Response to metal ions,,,,,,Cellular responses to stimuli,0.5813897
+1198,Retinoid cycle disease events,,,,,,Metabolism,0.7665808
+1206,RHO GTPase cycle,,,,,,Signal Transduction,0.9543655
+1207,RHO GTPase Effectors,,,,,,Signal Transduction,0.7069838
+1219,RHOBTB GTPase Cycle,,,,,,Signal Transduction,0.9247589
+1239,RNA Polymerase I Promoter Clearance,,,,,,Gene expression (Transcription),0.8064232
+1242,RNA Polymerase I Transcription,,,,,,Gene expression (Transcription),0.9558932
+1249,RNA Polymerase II Transcription,,,,,,Gene expression (Transcription),0.95373523
+1257,RNA Polymerase III Transcription,,,,,,Gene expression (Transcription),0.91325593
+1258,RNA Polymerase III Transcription Initiation,,,,,,Gene expression (Transcription),0.93763494
+1269,RORA activates gene expression,,,,,,Metabolism,0.6208777
+1273,rRNA processing,,,,,,Metabolism of RNA,0.649782
+1275,rRNA processing in the nucleus and cytosol,,,,,,Metabolism of RNA,0.9211601
+1283,S Phase,,,,,,Muscle contraction,0.50546277
+1284,SARS-CoV Infections,,,,,,Disease,0.6513108
+1285,SARS-CoV-1 Infection,,,,,,Disease,0.61067253
+1288,SARS-CoV-2 Infection,,,,,,Disease,0.7067367
+1295,SARS-CoV-2-host interactions,,,,,,Disease,0.7555262
+1302,Selective autophagy,,,,,,Autophagy,0.92083585
+1307,Sema4D in semaphorin signaling,,,,,,Developmental Biology,0.72329086
+1309,Semaphorin interactions,,,,,,Developmental Biology,0.9260095
+1313,Sensory perception of taste,,,,,,Sensory Perception,0.7229856
+1314,Sensory processing of sound,,,,,,Sensory Perception,0.74923223
+1328,Signal amplification,,,,,,Metabolism of proteins,0.53461677
+1338,Signaling by ALK in cancer,,,,,,Disease,0.8578387
+1339,Signaling by AMER1 mutants,,,,,,Disease,0.59282523
+1340,Signaling by APC mutants,,,,,,Disease,0.67157996
+1341,Signaling by AXIN mutants,,,,,,Disease,0.6830094
+1345,Signaling by CTNNB1 phospho-site mutants,,,,,,Disease,0.62830776
+1348,Signaling by EGFR in Cancer,,,,,,Signal Transduction,0.85355663
+1349,Signaling by EGFRvIII in Cancer,,,,,,Disease,0.6737215
+1352,Signaling by ERBB2 in Cancer,,,,,,Signal Transduction,0.8805038
+1357,Signaling by FGFR,,,,,,Signal Transduction,0.8953266
+1358,Signaling by FGFR in disease,,,,,,Disease,0.9522121
+1359,Signaling by FGFR1,,,,,,Signal Transduction,0.9323896
+1361,Signaling by FGFR2,,,,,,Signal Transduction,0.9180738
+1364,Signaling by FGFR3,,,,,,Signal Transduction,0.91979784
+1366,Signaling by FGFR4,,,,,,Signal Transduction,0.9162868
+1370,Signaling by GPCR,,,,,,Hemostasis,0.69062877
+1372,Signaling by Hedgehog,,,,,,Signal Transduction,0.8312485
+1376,Signaling by Interleukins,,,,,,Immune System,0.8780036
+1377,Signaling by KIT in disease,,,,,,Signal Transduction,0.7494488
+1379,Signaling by Ligand-Responsive EGFR Variants in Cancer,,,,,,Disease,0.9391811
+1380,Signaling by MET,,,,,,Signal Transduction,0.7183647
+1383,Signaling by Non-Receptor Tyrosine Kinases,,,,,,Immune System,0.5738353
+1384,Signaling by NOTCH,,,,,,Signal Transduction,0.766974
+1385,Signaling by NOTCH1,,,,,,Signal Transduction,0.8455063
+1386,Signaling by NOTCH1 HD Domain Mutants in Cancer,,,,,,Disease,0.8271929
+1387,Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,,,,,,Disease,0.8597069
+1388,Signaling by NOTCH1 in Cancer,,,,,,Signal Transduction,0.7390301
+1389,Signaling by NOTCH1 PEST Domain Mutants in Cancer,,,,,,Disease,0.82628155
+1390,Signaling by NOTCH2,,,,,,Signal Transduction,0.82042164
+1391,Signaling by NOTCH3,,,,,,Signal Transduction,0.82024825
+1392,Signaling by NOTCH4,,,,,,Signal Transduction,0.8301102
+1393,Signaling by NTRK1 (TRKA),,,,,,Signal Transduction,0.75167537
+1394,Signaling by NTRK2 (TRKB),,,,,,Signal Transduction,0.8038589
+1396,Signaling by NTRKs,,,,,,Signal Transduction,0.69530165
+1397,Signaling by Nuclear Receptors,,,,,,Gene expression (Transcription),0.81418157
+1399,Signaling by PDGFR in disease,,,,,,Signal Transduction,0.83167917
+1403,Signaling by PTK6,,,,,,Signal Transduction,0.7196794
+1405,Signaling by RAS mutants,,,,,,Disease,0.9661329
+1406,Signaling by Receptor Tyrosine Kinases,,,,,,Neuronal System,0.8163905
+1408,Signaling by Rho GTPases,,,,,,Signal Transduction,0.7788654
+1409,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",,,,,,Signal Transduction,0.72891927
+1412,Signaling by TGF-beta Receptor Complex,,,,,,Signal Transduction,0.80221075
+1413,Signaling by TGFB family members,,,,,,Signal Transduction,0.6723837
+1414,Signaling by the B Cell Receptor (BCR),,,,,,Immune System,0.85187435
+1417,Signaling by WNT,,,,,,Signal Transduction,0.815254
+1418,Signaling by WNT in cancer,,,,,,Signal Transduction,0.7281494
+1420,Signalling to ERKs,,,,,,Signal Transduction,0.6561119
+1425,SLC transporter disorders,,,,,,Transport of small molecules,0.67828244
+1426,SLC-mediated transmembrane transport,,,,,,Transport of small molecules,0.6755085
+1431,Sodium/Calcium exchangers,,,,,,Muscle contraction,0.59359515
+1433,Sphingolipid metabolism,,,,,,Metabolism,0.72894955
+1444,SUMO E3 ligases SUMOylate target proteins,,,,,,Metabolism of proteins,0.82118964
+1445,SUMOylation,,,,,,Metabolism of proteins,0.9150568
+1457,Suppression of phagosomal maturation,,,,,,Immune System,0.62568647
+1463,"Synthesis And Processing Of GAG, GAGPOL Polyproteins",,,,,,Metabolism,0.76828176
+1466,Synthesis of bile acids and bile salts via 24-hydroxycholesterol,,,,,,Metabolism,0.88154733
+1469,Synthesis of DNA,,,,,,DNA Replication,0.82821167
+1483,Synthesis of substrates in N-glycan biosythesis,,,,,,Metabolism of proteins,0.8516979
+1484,Synthesis of very long-chain fatty acyl-CoAs,,,,,,Metabolism,0.77002376
+1491,Tandem pore domain potassium channels,,,,,,Neuronal System,0.72541785
+1496,TCR signaling,,,,,,Immune System,0.95153725
+1500,Telomere Maintenance,,,,,,Cell Cycle,0.82936984
+1501,Termination of O-glycan biosynthesis,,,,,,Metabolism of proteins,0.55197775
+1509,The citric acid (TCA) cycle and respiratory electron transport,,,,,,Metabolism,0.8722857
+1511,The phototransduction cascade,,,,,,Sensory Perception,0.9449461
+1513,The role of Nef in HIV-1 replication and disease pathogenesis,,,,,,Disease,0.63334036
+1525,TNFR1-induced NFkappaB signaling pathway,,,,,,Immune System,0.8063896
+1530,Toll Like Receptor 2 (TLR2) Cascade,,,,,,Immune System,0.9190286
+1539,Toll-like Receptor Cascades,,,,,,Immune System,0.77901673
+1544,TP53 Regulates Transcription of Cell Cycle Genes,,,,,,Gene expression (Transcription),0.8540658
+1545,TP53 Regulates Transcription of Cell Death Genes,,,,,,Gene expression (Transcription),0.9071829
+1569,Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,,,,,,Signal Transduction,0.9674423
+1572,Transcriptional regulation by RUNX1,,,,,,Gene expression (Transcription),0.9335505
+1574,Transcriptional regulation by RUNX3,,,,,,Gene expression (Transcription),0.9402199
+1577,Transcriptional Regulation by TP53,,,,,,Gene expression (Transcription),0.84304845
+1584,Translation,,,,,,Metabolism of proteins,0.6447605
+1588,Translation of Structural Proteins,,,,,,Metabolism of proteins,0.64728063
+1593,Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template,,,,,,DNA Repair,0.7234782
+1596,Transmission across Chemical Synapses,,,,,,Neuronal System,0.6991863
+1597,"Transport of bile salts and organic acids, metal ions and amine compounds",,,,,,Metabolism,0.7173721
+1599,Transport of inorganic cations/anions and amino acids/oligopeptides,,,,,,Transport of small molecules,0.6689657
+1602,Transport of Mature mRNAs Derived from Intronless Transcripts,,,,,,Metabolism of RNA,0.9342592
+1603,Transport of Mature Transcript to Cytoplasm,,,,,,Metabolism of RNA,0.58586013
+1605,Transport of organic anions,,,,,,Transport of small molecules,0.5870853
+1614,TRIF(TICAM1)-mediated TLR4 signaling ,,,,,,Immune System,0.75531304
+1617,Triglyceride metabolism,,,,,,Metabolism,0.9301872
+1619,tRNA Aminoacylation,,,,,,Metabolism of proteins,0.86665595
+1621,tRNA processing,,,,,,Metabolism of RNA,0.77236587
+1628,Ubiquitin Mediated Degradation of Phosphorylated Cdc25A,,,,,,Cell Cycle,0.82340086
+1632,Unfolded Protein Response (UPR),,,,,,Cellular responses to stimuli,0.58717436
+1635,Uptake and actions of bacterial toxins,,,,,,Disease,0.69433856
+1652,Visual phototransduction,,,,,,Sensory Perception,0.6960576
+1665,XBP1(S) activates chaperone genes,,,,,,Cellular responses to stimuli,0.70998394
+1669,Zinc influx into cells by the SLC39 gene family,,,,,,Transport of small molecules,0.6003721
+1670,Zinc transporters,,,,,,Cellular responses to stimuli,0.5136965

@@ -1,0 +1,17 @@
+complex_name,species
+ALL,General (all species)
+BAN,Bacillus anthracis
+CBO,Clostridium botulinum
+COV,Human SARS coronavirus
+CPH,Corynephage beta
+CTE,Clostridium tetani
+ECO,Escherichia coli
+FLU,Influenza A virus
+HCV,Hepatitis C virus
+HCY,Human cytomegalovirus (HCMV)
+HIV,Human Immunodeficiency Virus
+HSA,Homo sapiens (Human)
+KPN,Klebsiella pneumoniae
+MTU,Mycobacterium tuberculosis
+NME,Neisseria meningitidis serogroup B
+RSY,Human respiratory syncytial virus A
