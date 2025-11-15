@@ -10,5 +10,6 @@ shiny::runGitHub('RuoqiaoWrqqq/GRN_Pathway_selection-shiny')
 ```
 
 You should then see something like this:
+![](images/pathways%20accross%20groups%20from%20reactome%20db.png)
+![](images/download%20the%20pathway%20info%20for%20cytoscape%20app.png)
 
-![screen shot](ShinyScreenShot.png)
